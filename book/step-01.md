@@ -38,11 +38,11 @@
 Теперь у вас есть собственный бот в Telegram! Для его настройки и программирования вам понадобится использовать полученный токен и Telegram Bot API.
 
 Полезные ссылки:
-1. https://core.telegram.org/api
-2. https://core.telegram.org/bots
-3. https://core.telegram.org/bots#how-do-i-create-a-bot
-4. https://core.telegram.org/bots/api
-5. https://core.telegram.org/bots/api#making-requests
-6. https://core.telegram.org/bots/tutorial
+1. [Документация по Telegram Api](https://core.telegram.org/api)
+2. [Документация по Telegram Bots](https://core.telegram.org/bots)
+3. [Как создать бота](https://core.telegram.org/bots#how-do-i-create-a-bot)
+4. [Документация по Telegram Api Bots](https://core.telegram.org/bots/api)
+5. [Первый запрос](https://core.telegram.org/bots/api#making-requests)
+6. [Уроки](https://core.telegram.org/bots/tutorial)
 
 [Далее \>](./step-02.md)

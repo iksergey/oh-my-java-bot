@@ -1,6 +1,6 @@
 # Второй шаг. HTTP-запрос к Telegram Bot Api
 
-Гайд на странице https://core.telegram.org/bots/api#making-requests
+Гайд на странице: [making requests](https://core.telegram.org/bots/api#making-requests)
 
 Все запросы к Telegram Bot API должны выполняться по HTTPS и должны быть представлены в таком виде: `https://api.telegram.org/bot<token>/METHOD_NAME`. 
 
@@ -43,8 +43,8 @@
 1. Ознакомьтесь с доступными типами данных в API: https://core.telegram.org/bots/api#available-types
 2. Изучите список доступных методов: https://core.telegram.org/bots/api#available-methods
 3. Обратите особое внимание на методы:
-   - Отправка сообщений: https://core.telegram.org/bots/api#sendmessage
-   - Получение обновлений (в том числе сообщений): https://core.telegram.org/bots/api#getting-updates
+   - [Отправка сообщений](https://core.telegram.org/bots/api#sendmessage)
+   - [Получение обновлений (в том числе сообщений)](https://core.telegram.org/bots/api#getting-updates)
 
 ## Шаг 5: Эксперименты с API
 
